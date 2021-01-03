@@ -3,6 +3,5 @@
   
   | Project Code | Name     | Repo link                                                      |           Overview                  |
   |--------------|:--------:|:--------------------------------------------------------------:|------------------------------------:|
-  
   |rnRedux     |Restaurant App| [Repository](https://github.com/marntext/rnRedux.git)|<img src="Img/RNREDUX.gif" height="400">|
   
